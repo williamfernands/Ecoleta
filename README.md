@@ -6,13 +6,13 @@
 </h1>
                                                                           
 
----
+----
           
 # Sobre
 
 O projeto Ecoleta, É uma Aplicação desenvolvida na trilha Starter da Next Level Week distribuída pela [Rocketseat](https://rocketseat.com.br/). Com intuito de aprender as melhores tecnologias do mercado.
 
----
+----
 
 # Tecnologias utilizadas
 
@@ -23,14 +23,14 @@ o projeto foi desenvolvido usando as seguintes tecnologias
 - [Css](https://www.w3schools.com/Css/)
 - [NodeJs](https://nodejs.org/en/)
 
----
+----
 
 # Como utilizar
 Para executar essa aplicação você vai precisar dos seguintes softwares instalados em seu computador:
 - [NodeJs](https://nodejs.org/en/)
 - [Git](https://git-scm.com/)
 
----
+----
 
 # Como rodar o projeto
 
