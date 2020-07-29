@@ -16,12 +16,12 @@ O projeto **Ecoleta**, Aplicação desenvolvida na semana **Next Level Week**, A
 ## Tecnologias utilizadas
 
 o projeto foi desenvolvido usando as seguintes tecnologias
-<blockquote align="center">
+
 - [JavaScript](https://www.cursoemvideo.com/course/javascript/)
 - [Html](https://www.cursoemvideo.com/course/html5/)
 - [Css](https://www.w3schools.com/Css/)
 - [NodeJs](https://nodejs.org/en/)
-</blockquote>
+
 ---
 
 ## Como utilizar
