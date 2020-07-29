@@ -37,10 +37,10 @@ Para executar essa aplicação você vai precisar dos seguintes softwares instal
 
 ```bash
 # Clonar repositório
-$ git clone https://github.com/Arthur-Barros/Ecoleta-NLW.git
+$ git clone https://github.com/williamfernands/NLW_Ecoleta.git
 
 # Entrar no diretório
-$ cd Ecoleta-NLW/nlw
+$ cd NLW_Ecoleta/ecoleta
 
 # Instalar as dependências
 $ npm install
