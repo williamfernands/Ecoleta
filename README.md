@@ -1,4 +1,4 @@
-# NLW_Ecoleta
+# ECOLETA
 
 # Visualização
 <h1>
