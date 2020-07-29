@@ -20,8 +20,8 @@ O projeto **Ecoleta**, Aplicação desenvolvida na semana **Next Level Week**, A
 o projeto foi desenvolvido usando as seguintes tecnologias
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Css](https://www.w3schools.com/Css/)
 - [Html](https://www.w3schools.com/html/)
+- [Css](https://www.w3schools.com/Css/)
 - [NodeJs](https://nodejs.org/en/)
 
 ---
