@@ -10,7 +10,8 @@
           
 # Sobre
 
-O projeto Ecoleta, Aplicação desenvolvida na trilha Starter da Next Level Week distribuída pela [Rocketseat](https://rocketseat.com.br/).com intuito de aprender as melhores tecnologias do mercado.
+O projeto Ecoleta, Aplicação desenvolvida na trilha Starter da Next Level Week distribuída pela [Rocketseat](https://rocketseat.com.br/). Com intuito de aprender as melhores tecnologias do mercado.
+
 ---
 
 # Tecnologias utilizadas
