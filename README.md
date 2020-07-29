@@ -18,7 +18,8 @@ O projeto **Ecoleta**, Aplicação desenvolvida na semana **Next Level Week**, A
 o projeto foi desenvolvido usando as seguintes tecnologias
 
 <p align="center">
-<img  src="https://lh3.googleusercontent.com/proxy/aUc71rYvKwPHHEeMMKXU-oCZy48XNXxSvg7rupeJz-f2nYxV2SJuU67EvFV8q2ymp1jeC3UtuDLKITsoM623sKoFxx86jTOOAAR2qSmXiMMYJ7l7ytYJ4M1kCn-lkDP67lW_ZfE5rL6z" width="60px"> - [JavaScript](https://www.cursoemvideo.com/course/javascript/)
+- [JavaScript](https://www.cursoemvideo.com/course/javascript/)
+<img  src="https://lh3.googleusercontent.com/proxy/aUc71rYvKwPHHEeMMKXU-oCZy48XNXxSvg7rupeJz-f2nYxV2SJuU67EvFV8q2ymp1jeC3UtuDLKITsoM623sKoFxx86jTOOAAR2qSmXiMMYJ7l7ytYJ4M1kCn-lkDP67lW_ZfE5rL6z" width="60px"> 
 
 - [Html](https://www.cursoemvideo.com/course/html5/)
 - [Css](https://www.w3schools.com/Css/)
