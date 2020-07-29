@@ -1,4 +1,4 @@
-## Ecoleta-NLW
+## NLW_Ecoleta
 
 ### Visualização
 <h1>
@@ -48,7 +48,4 @@ $ npm install
 # Iniciar o Projeto
 $ npm start
 
-```
----
 
-Desenvolvido por **Arthur Barros** [Entre em contato](https://www.linkedin.com/in/arthur-barros-/)
