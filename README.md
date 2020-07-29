@@ -1,6 +1,6 @@
 ## NLW_Ecoleta
 
-### Visualização
+## Visualização
 <h1>
   <img src="https://ik.imagekit.io/xlj9cejf8v/ecoleta_Ep3FMHv7g.gif" alt="gif referente a Ecoleta">
 </h1>
@@ -8,7 +8,8 @@
 
 ---
           
-## Sobre
+# Sobre
+
 O projeto **Ecoleta**, Aplicação desenvolvida na trilha Starter da Next Level Week distribuída pela [Rocketseat](https://rocketseat.com.br/).com intuito de aprender as melhores tecnologias do mercado.
 ---
 
