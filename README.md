@@ -1,11 +1,7 @@
 # ECOLETA
 
 # Visualização
-<h1>
-  <img src="https://ik.imagekit.io/xlj9cejf8v/ecoleta_Ep3FMHv7g.gif" alt="gif referente a Ecoleta">
-</h1>
-                                                                          
-
+                                                                        
 ----
           
 # Sobre
